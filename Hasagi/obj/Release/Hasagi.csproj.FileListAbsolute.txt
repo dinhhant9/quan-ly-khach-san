@@ -1,0 +1,14 @@
+E:\VisualStudio\Hasagi\Hasagi\bin\Release\Hasagi.exe.config
+E:\VisualStudio\Hasagi\Hasagi\bin\Release\dangnhap.mdf
+E:\VisualStudio\Hasagi\Hasagi\bin\Release\dangnhap_log.ldf
+E:\VisualStudio\Hasagi\Hasagi\bin\Release\Hasagi.exe
+E:\VisualStudio\Hasagi\Hasagi\bin\Release\Hasagi.pdb
+E:\VisualStudio\Hasagi\Hasagi\obj\Release\Hasagi.frmKH.resources
+E:\VisualStudio\Hasagi\Hasagi\obj\Release\Hasagi.frmDn.resources
+E:\VisualStudio\Hasagi\Hasagi\obj\Release\Hasagi.frmMHmain.resources
+E:\VisualStudio\Hasagi\Hasagi\obj\Release\Hasagi.frmMain.resources
+E:\VisualStudio\Hasagi\Hasagi\obj\Release\Hasagi.Properties.Resources.resources
+E:\VisualStudio\Hasagi\Hasagi\obj\Release\Hasagi.frmAdd.resources
+E:\VisualStudio\Hasagi\Hasagi\obj\Release\Hasagi.csproj.GenerateResource.Cache
+E:\VisualStudio\Hasagi\Hasagi\obj\Release\Hasagi.exe
+E:\VisualStudio\Hasagi\Hasagi\obj\Release\Hasagi.pdb
